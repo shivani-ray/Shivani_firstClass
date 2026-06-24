@@ -1,5 +1,7 @@
 package Array;
 
+import java.util.Arrays;
+
 public class search_element {
 
     static void main(String[] args) {
@@ -16,6 +18,8 @@ public class search_element {
                 break;
 
             }
+
+
 
 
         }

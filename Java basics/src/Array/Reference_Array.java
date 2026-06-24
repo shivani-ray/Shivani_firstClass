@@ -16,8 +16,9 @@ public class Reference_Array {
             System.out.print(arr[i]+"  ");
         }
         int [] arr_2 = arr;
-        for(int i =0; i<n; i++){
-            System.out.println(arr_2 +"  ");
+        for(int i =0; i<n; i++) {
+            System.out.println(arr_2 + "  ");
+
         }
     }
 }
